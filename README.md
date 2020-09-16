@@ -4,12 +4,7 @@
  * @LastEditTime: 2020-09-04 16:41:18
  * @FilePath: /whp-utils/README.md
 -->
-# whp-utils info
 
-- 开发过程中的公共函数
-- username 
- - whpdevelop
- - whpdevelop@sina.com
 
 # flow
 
@@ -20,3 +15,9 @@ npm publish
 # github
 
 https://github.com/whpdevelop/whp-utils
+
+# whp-utils info
+- 开发过程中的公共函数
+- username 
+- whpdevelop
+- whpdevelop@sina.com
